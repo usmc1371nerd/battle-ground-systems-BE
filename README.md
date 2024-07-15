@@ -10,3 +10,7 @@ Mac   pip3 install sqlite
 
    $ cd <envname>
    $ Scripts\activate 
+
+
+### Links
+**https://www.geeksforgeeks.org/python-virtual-environment/**
